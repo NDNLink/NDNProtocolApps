@@ -1,6 +1,7 @@
 // Copyright 2017-2020 @polkadot/apps authors & contributors
 // SPDX-License-Identifier: Apache-2.0
 
+
 const fs = require('fs');
 const pinataSDK = require('@pinata/sdk');
 const cloudflare = require('dnslink-cloudflare');
