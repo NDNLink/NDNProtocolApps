@@ -6,6 +6,7 @@
 # fail fast on any non-zero exits
 set -e
 
+
 # the docker image name and dockerhub repo
 NAME="polkadot-js-apps"
 REPO="jacogr"
